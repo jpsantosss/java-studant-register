@@ -57,3 +57,4 @@ public class Estudante {
     public void atualizarEndereco(){
         this.endereco = endereco;
     }
+}
