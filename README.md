@@ -1,9 +1,20 @@
-## Cadastro de estudantes em JAVA
+# 📘 Java Student Registration
 
-#### ✒️Motivo
+This repository contains a simple student registration system developed in Java, created as part of a college assignment to apply fundamental programming concepts.
 
-Atividade proposta por um professor da faculdade.
+## 📌 Project Description
 
-#### 🎯Objetivo
+The application allows for basic management of student records, including:
 
-Montar um cadastro de estudantes simples.
+- Adding new students
+- Viewing student information
+- Updating existing student details
+- Deleting student records
+
+The primary objective was to reinforce core Java programming skills through practical implementation.
+
+## 🛠️ Technologies Used
+
+- **Java SE**: Core language features for object-oriented programming
+- **Command-Line Interface (CLI)**: User interaction via the terminal
+- **File I/O (if implemented)**: Reading from and writing to files for data persistence
